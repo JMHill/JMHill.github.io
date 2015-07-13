@@ -1,18 +1,25 @@
+/*
+This file is currently not being used -
+it is left over from the original static
+site created as part of the treehouse course.
+Just keeping it here for reference.
+*/
+
 @media screen and (min-width: 480px) {
   #primary {
     width: 50%;
     float: left;
   }
-  
+
   #secondary {
     width: 40%;
     float: right;
   }
-  
+
   #gallery li {
     width: 28.3333%;
   }
-  
+
   #gallery li:nth-child(4n) {
     clear:left;
   }
@@ -20,7 +27,7 @@
 /**************
 ABOUT
 **************/
-  
+
   .profile-photo {
     float:left;
     margin: 0 5% 80px 0;
@@ -40,26 +47,26 @@ HEADER
     text-align: right;
     width: 45%;
   }
-    
+
   #logo {
     float: left;
     margin-left: 5%;
     text-align: left;
     width: 45%;
   }
-    
+
   h1 {
     font-size: 2.5em;
   }
-    
+
   h2 {
     font-size: 0.825em;
     margin-bottom: 20px;
   }
-    
+
   header {
     border-bottom: 5px solid #599a68;
     margin-bottom: 60px;
   }
-    
+
 }

@@ -1,0 +1,12 @@
+# Site settings
+title: Justin Hill
+email: justinmhill@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog and developer portfolio for Justin Hill.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://justinmhill.com" # the base hostname & protocol for your site
+twitter_username: justinmhill
+github_username:  jmhill
+
+# Build settings
+markdown: kramdown
