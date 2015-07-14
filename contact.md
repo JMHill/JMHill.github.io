@@ -11,8 +11,10 @@ I look forward to hearing from you!
 #### Contact Details
 - Phone: [571-357-5760][phone]
 - Email: [justinmhill@gmail.com][email]
-- Twitter [@justinmhill][twitter]
+- Twitter: [@justinmhill][twitter]
+- LinkedIn: [View my resume][linkedin]
 
 [phone]: tel:571-357-5760
 [email]: mailto:justinmhill@gmail.com
 [twitter]: https://twitter.com/{{ site.twitter_username }}
+[linkedin]: https://www.linkedin.com/in/hilljustin
