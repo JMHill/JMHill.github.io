@@ -12,5 +12,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://justinmhill.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title.html # the url structure for posts
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
+
 # Build settings
 markdown: kramdown
