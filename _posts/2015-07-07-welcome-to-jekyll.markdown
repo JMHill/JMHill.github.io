@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2015-07-07 00:01:46
 categories: jekyll update
 published: false
+comments: true
 ---
 You read the first paragraph. Good job!
 
