@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <h1 class="page-heading">{{ page.projectname }}</h1>
+  <p>Description: {{page.description }}</p>
+  <p>Status: {{ page.status }}
+  <div>Tools in use:
+    <ul>
+      {% for tech in page.techs %}
+        <li>{{ tech }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div>See code on GitHub: {{ page.ghrepo }}</div>
+  <div>Check out current work in progress: {{ page.issues }}</div>
+  <div>See a live version of the app: {{ page.appurl }}</div>
+  <article class="page-content">
+    {{ content }}
+  </article>
+
+</div>
