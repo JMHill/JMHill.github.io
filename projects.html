@@ -4,18 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 {% for project in site.projects %}
+  {% assign project_data = site.data.projects[project.project] %}
   <section class="post">
-    <h2 class="post-title"><a href="{{ project.url | prepend: site.baseurl }}">{{ project.projectname }}</a></h2>
-
+    <h2 class="post-title"><a href="{{ project.url | prepend: site.baseurl }}">{{ project_data.name }}</a></h2>
+    <p><span class="post-category post-category-js ">Status: {{ project_data.status }}</span><p>
     <p>
-      {% for tech in project.techs %}
+      {% for tech in project_data.techs %}
       <span class="post-category post-category-pure">{{ tech }}</span>
       {% endfor %}
     </p>
 
     <div class="post-description">
-      <p>{{ project.description }}</p>
-      <p>Status: {{ project.status }}</p>
+      <p>{{ project_data.description }} <a href="{{ project.url | prepend: site.baseurl }}">Learn more...</a></p>
     </div>
 </section>
 {% endfor %}
