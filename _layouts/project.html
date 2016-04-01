@@ -21,14 +21,37 @@ layout: default
 
     <div class="pure-u-1 pure-u-md-1-2">
       <div class="post-meta">
-        <p>See code on GitHub: {{ project.github_repo }}</p>
-        <p>Check out current work in progress: {{ project.issues }}</p>
-        <p>See a live version of the app: {{ project.live_app_url }}</p>
+
+        <p>See code on GitHub:
+          {% if project.github_repo %}
+            <a href="{{ project.github_repo }}">{{ project.github_repo }}</a>
+          {% else %}
+            coming soon!
+          {% endif %}
+        </p>
+
+        <p>Check out current work in progress:
+          {% if project.github_repo %}
+            <a href="{{ project.issues }}">{{ project.issues }}</a>
+          {% else %}
+            coming soon!
+          {% endif %}
+        </p>
+
+        <p>See a live version of the app:
+          {% if project.github_repo %}
+            <a href="{{ project.live_app_url }}">{{ project.live_app_url }}</a>
+          {% else %}
+            coming soon!
+          {% endif %}
+        </p>
+
       </div>
     </div>
 
   </div>
 
+  <h2 class="content-subhead">Summary</h2>
   <article class="post-description">
     {{ content }}
   </article>
