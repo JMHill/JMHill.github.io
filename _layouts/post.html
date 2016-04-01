@@ -8,7 +8,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
+  <article class="post-content post-description">
     {{ content }}
   </article>
 
@@ -27,5 +27,5 @@ layout: default
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   {% endif %}
-  
+
 </div>
