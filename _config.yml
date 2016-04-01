@@ -10,7 +10,7 @@ github_username:  jmhill
 # Site structure
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://justinmhill.com" # the base hostname & protocol for your site
-permalink: /blog/:year/:month/:day/:title.html # the url structure for posts
+permalink: /blog/:year/:month/:day/:title/ # the url structure for posts
 
 collections:
   projects:
