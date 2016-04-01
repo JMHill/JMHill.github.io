@@ -15,7 +15,7 @@ This post is meant for the individual who has heard enough about computer scienc
 - Weighing options with respect to online learning sources available to you.
 - Pitfalls and opportunities to look out for as you chart your path.
 
-##My Story
+## My Story
 
 I took a pretty crazy path into the post-college working world. My job history is littered with a grab bag of roles including archaeological field technician, bartender (let that be a lesson to you about the archaeology job market), high school history teacher, online education facilitator, and test prep teacher. The one unifying theme is that I like learning and helping other people learn at their full potential, with a healthy dose of interest in the hands-on/applied sides of education.
 
@@ -23,7 +23,7 @@ A few years ago, I started a job with a growing edtech company - my role was ini
 
 Since then, I've worked as grants officer for a charitable foundation, where my focus is on grants related to online learning and educational technology. While my role is less technical, I've been diligently building on my programming skills in my free time. Read on for some key lessons I've accumulated in that time.
 
-##Lesson 1: Get paid to learn by finding out how to add value at your current job
+## Lesson 1: Get paid to learn by finding out how to add value at your current job
 
 How did my job at the edtech gig grow so much (and give me the opportunity to learn) within just a year? After all, I had absolutely NO technical background in my work history.
 
@@ -39,7 +39,7 @@ Using a Google form was not adequate; we required the flexibility and detail lev
 
 Here was my opportunity: if I had tried to work out this system in Excel, I would have been using VBA to write macros and would have missed out on a lot of the easy document-sharing capabilities inherent to Google Apps. If I started building out my solution in Google Sheets, however, I would have the opportunity to learn Javascript, which seemed like a much more useful general utility language if I wanted to move beyond spreadsheets one day.
 
-##Lesson 2: Start small and free - low risk, amazingly high return
+## Lesson 2: Start small and free - low risk, amazingly high return
 
 I had made my decision: I didn't know VBA or Javascript, but I had to learn one if I was going to start automating some of our rote reporting processes. Javascript, as the language of the web, supported in every modern browser, seemed a natural fit as my first programming language.
 
@@ -51,7 +51,7 @@ While all of this was going on, I also saw an opportunity to work with our marke
 
 In just a few short months, I had gone from never writing a single line of code in my life to finding ways to help my coworkers do meaningful work in efficient, interesting ways. I was blown away - and I was hooked. I had to learn more.
 
-##Lesson 3: Take the plunge and invest in yourself
+## Lesson 3: Take the plunge and invest in yourself
 
 This is where my whole world started to open up. I had seen ads for Treehouse and Codeschool somewhere (probably in my facebook or twitter feed), and decided it would be worthwhile to make a small investment in some high quality resources. I was able to hunt around for some online coupons for both Treehouse and Codeschool, which added up to a few hundred dollars in savings for year-long subscriptions to each.
 
@@ -69,7 +69,7 @@ I saved up a bit of money and started a program called [Thinkful][thinkful], in 
 
 I'll take some time to write some more thorough reviews of these experiences in the future, but in the meantime, Bloc.io (an online bootcamp provider) has an awesome site that can acquaint you with some of the different opportunities available to you, all along the spectrum from self-paced tutorials, to online programs, to in-person bootcamps. Check it out [here][bootcampcomp].
 
-##Lesson 4: Good job - now stop doing tutorials and start building
+## Lesson 4: Good job - now stop doing tutorials and start building
 
 Before you embark on your learn-to-code adventure, I'd encourage you to carve out some time to read [this excellent blog post](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) by Erik Troutman over at [Viking Code School][vikingcs].
 
@@ -89,7 +89,7 @@ Just start building. Preferably something you care about (to keep you motivated)
 
 If you're trying to solve a problem and you need to get help, get acquainted with the good folks over at [Stack Overflow][stackoverflow]. If that sounds too intimidating (it shouldn't - the developers I've met so far that I really liked are the ones who are never afraid to admit they need help), and you've subscribed to an online learning community like [Treehouse][treehouse], use their forums. And don't forget to pay it forward by answering some questions as well, if you can. Nothing helps you learn better than trying to teach. You'll be surprised what you know.
 
-##Lesson 5: Get out of the house and meet people - earlier than you think you should
+## Lesson 5: Get out of the house and meet people - earlier than you think you should
 
 This should really be 'Lesson 0', as it's a lesson I wish I had learned at the very beginning. Why would you want to face all of the challenges laid out above all by yourself?
 
@@ -99,7 +99,7 @@ Hop on [Meetup][meetup] right now and search for some tech-oriented groups in yo
 
 At the end of the day, you're probably interested in learning web development not because you like staring at a text editor all day, but because you want to learn how to build cool things for people - you want the skills to solve difficult problems and delight your customers. So get out of the house and start meeting people! You never know what you'll find.
 
-##Next Steps
+## Next Steps
 
 As I noted in the intro, I can't claim to be an authority on web development or learning to code - I can only pass along my experiences and offer encouragement. If you want to follow along with my journey, check me out on twitter ([@justinmhill](https://twitter.com/justinmhill)), where I will continue to post new articles. Best of luck!
 
