@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons from My Learn-to-Code Journey"
-date:   2016-03-06
+date:   2016-04-01
 categories: coding online-learning treehouse codeschool thinkful node.js
 published: true
 comments: true
@@ -61,7 +61,7 @@ This is where my whole world started to open up. I had seen ads for Treehouse an
 
 Both of these resources are fantastic for orienting an aspiring software engineer to the world of web development and the ecosystem of technologies that you will engage with in your new career. Each service provides "tracks" that will allow you to learn the ins and outs of different languages or technology stacks, or you can browse their library and take whichever individual courses interest you the most.
 
-If you're like me, however, you might need a little push to start a serious deep dive into web development. I knew that a bootcamp (an immersive program that has you working 5-6 days a week for 3 or more months) was not for me - the cost was prohibitive my itself, but even more ominous was the thought of having zero income for perhaps a half a year.
+If you're like me, however, you might need a little push to start a serious deep dive into web development. I knew that a bootcamp (an immersive program that has you working 5-6 days a week for 3 or more months) was not for me - the cost was prohibitive by itself, but even more ominous was the thought of having zero income for perhaps a half a year.
 
 Luckily, there is a whole sector of online part-time programs that bridge the gap between self-paced tutorials and the full-on bootcamp experience.
 
