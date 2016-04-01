@@ -1,4 +1,4 @@
 ---
 project: numismastery
 ---
-numismastery content
+Summary is coming soon - thanks for your patience!

@@ -1,4 +1,4 @@
 ---
 project: sketch-n-share
 ---
-Sketch-n-share content goes here
+Summary is coming soon - thanks for your patience!

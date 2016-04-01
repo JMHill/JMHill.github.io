@@ -1,4 +1,4 @@
 ---
 project: shopping-list
 ---
-Shopping list content goes here
+Summary is coming soon - thanks for your patience!

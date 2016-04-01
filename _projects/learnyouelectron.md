@@ -1,4 +1,4 @@
 ---
 project: learnyouelectron
 ---
-Electron content goes here
+Summary is coming soon - thanks for your patience!
