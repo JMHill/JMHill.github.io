@@ -1,0 +1,93 @@
+{
+  "justinmhill": {
+    "name": "jmhill.github.io",
+    "description": "...the website you're looking at right now!",
+    "status": "live",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "jekyll",
+      "Pure.css",
+      "GitHub Pages"
+    ]
+  },
+  "learnyouelectron": {
+    "name": "learnyouelectron",
+    "description": "A nodeschool module for learning electron (cross platform native apps with node!)",
+    "status": "planning",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "node.js",
+      "electron",
+      "npm"
+    ]
+  },
+  "mrdoc": {
+    "name": "mrdoc",
+    "description": "A custom document and workflow management system",
+    "status": "in development",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "hapi",
+      "react",
+      "mongodb",
+      "node.js"
+    ]
+  },
+  "numismastery": {
+    "name": "Numismastery",
+    "description": "Crowd-sourced coin grading for collectors",
+    "status": "live",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "mongodb",
+      "express.js",
+      "angular.js",
+      "node.js"]
+  },
+  "shopping-list": {
+    "name": "Shopping List",
+    "description": "My obligatory to-do app (for tinkering with new ideas)",
+    "status": "in development",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "mongodb",
+      "express.js",
+      "angular.js",
+      "node.js"
+    ]
+  },
+  "sketch-n-share": {
+    "name": "Sketch-N-Share",
+    "description": "Quick, easy chat with whiteboarding",
+    "status": "planning",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "backbone.js",
+      "express.js"
+    ]
+  },
+  "spotify-recommend": {
+    "name": "Spotify-Recommend",
+    "description": "Discover new artists based on your favs",
+    "status": "planning",
+    "github_repo": "coming soon",
+    "issues": "coming soon",
+    "live_app_url": "coming soon",
+    "techs": [
+      "express.js",
+      "react"
+    ]
+  }
+}

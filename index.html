@@ -1,26 +1,27 @@
 ---
 layout: default
 ---
+<div>
+  <div class="posts">
+    <h1 class="content-subhead">Welcome</h1>
+    <p class="post-description">My name is Justin Hill and I am a tech enthusiast, web developer, and educator. Check out my recent blog posts below, or head over to the <a href="/projects/"> projects</a> page to see what I'm working on.</p>
+  </div>
+  
+  <div class="posts">
+    <h1 class="content-subhead">Recent Posts</h1>
 
-<div class="home">
-
-  <h1 class="page-heading">Welcome</h1>
-  <p>My name is Justin Hill and I am a tech enthusiast, web developer, and educator. Check out my recent blog posts below, or head over to the <a href="/projects/"> projects</a> page to see what I'm working on.</p>
-
-  <h1 class="page-heading">Recent Blog Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts limit:3 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+    {% for post in site.posts limit:5 %}
+    <section class="post">
+      <h2 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+      <div class="post-description">
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </section>
     {% endfor %}
-  </ul>
+  </div>
+<div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

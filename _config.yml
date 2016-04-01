@@ -18,11 +18,11 @@ collections:
     permalink: /projects/:path/
 
 defaults:
-  - scope:
-      path: ""
-      type: projects
+  -
+    scope:
+      path: "projects"
     values:
-      layout: page
+      layout: "project"
 
 # Build settings
 markdown: kramdown
