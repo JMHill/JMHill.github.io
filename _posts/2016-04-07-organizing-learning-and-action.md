@@ -61,7 +61,7 @@ I use two main tools for managing my life: [Todoist][todoist] and [Evernote][eve
 
 ### Using Todoist for task management
 
-There are two main reasons I chose todoist as my task list manager: it's available everywhere (web, email plugins, browser extensions, smartphone app, etc), and it's simple and straightforward to work with.
+There are two main reasons I chose todoist as my task list manager: it's available everywhere (web, email plugins, browser extensions, smartphone app, etc), and it's simple and straightforward to work with. You can see a great intro to using Todoist within this system [here][todoist-gtd].
 
 When using a to-do list app, it's really important to embrace the idea of universal capture. If I'm walking around and idea suddenly comes to me, or if I'm working on something else and suddenly remember I have to do something, I just pull out my smartphone, tap the Todoist "Add Task" icon on my homescreen, and jot down the item to deal with later. If I'm browsing the web and I come across a link to an interesting article, I click on my todoist browser extension, and click "Add Website as task," so that I remember to check out the article later.
 
