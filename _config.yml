@@ -26,3 +26,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
+
+# Use jekyll-feed plugin
+gems:
+  - jekyll-feed
