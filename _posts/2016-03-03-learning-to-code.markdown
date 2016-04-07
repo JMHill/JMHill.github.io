@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Lessons from My Learn-to-Code Journey"
+title:  Lessons from My Learn-to-Code Journey
 date:   2016-04-01
 categories: coding online-learning treehouse codeschool thinkful node.js
 published: true

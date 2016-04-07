@@ -23,6 +23,12 @@ defaults:
       path: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # Build settings
 markdown: kramdown
