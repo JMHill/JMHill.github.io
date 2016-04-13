@@ -14,10 +14,10 @@
   },
   "learnyouelectron": {
     "name": "learnyouelectron",
-    "description": "A nodeschool module for learning electron (cross platform native apps with node!)",
+    "description": "A nodeschool module for learning electron (cross platform apps with node!)",
     "status": "planning",
-    "github_repo": ,
-    "issues": ,
+    "github_repo": "https://github.com/cralford21/learnyouelectron",
+    "issues": "https://github.com/cralford21/learnyouelectron/issues",
     "live_app_url": ,
     "techs": [
       "node.js",
@@ -29,8 +29,8 @@
     "name": "mrdoc",
     "description": "A custom document and workflow management system",
     "status": "in development",
-    "github_repo": ,
-    "issues": ,
+    "github_repo": "https://github.com/jmhill/mrdoc",
+    "issues": "https://waffle.io/jmhill/mrdoc",
     "live_app_url": ,
     "techs": [
       "hapi",
@@ -56,8 +56,8 @@
     "name": "Shopping List",
     "description": "My obligatory to-do app (for tinkering with new ideas)",
     "status": "in development",
-    "github_repo": ,
-    "issues": ,
+    "github_repo": "https://github.com/jmhill/mongo-shopping-list",
+    "issues": "https://github.com/jmhill/mongo-shopping-list/issues",
     "live_app_url": ,
     "techs": [
       "mongodb",
@@ -70,8 +70,8 @@
     "name": "Sketch-N-Share",
     "description": "Quick, easy chat with whiteboarding",
     "status": "planning",
-    "github_repo": ,
-    "issues": ,
+    "github_repo": "https://github.com/jmhill/pictionary",
+    "issues": "https://github.com/jmhill/pictionary/issues",
     "live_app_url": ,
     "techs": [
       "backbone.js",
