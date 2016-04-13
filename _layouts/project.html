@@ -31,7 +31,7 @@ layout: default
         </p>
 
         <p>Check out current work in progress:
-          {% if project.github_repo %}
+          {% if project.issues %}
             <a href="{{ project.issues }}">{{ project.issues }}</a>
           {% else %}
             coming soon!
@@ -39,7 +39,7 @@ layout: default
         </p>
 
         <p>See a live version of the app:
-          {% if project.github_repo %}
+          {% if project.live_app_url %}
             <a href="{{ project.live_app_url }}">{{ project.live_app_url }}</a>
           {% else %}
             coming soon!
