@@ -2,25 +2,22 @@
 layout: default
 ---
 <div>
-  <div class="posts">
-    <h1 class="content-subhead">Welcome</h1>
-    <p class="post-description">My name is Justin Hill and I am a tech enthusiast, web developer, and educator. Check out my recent blog posts below, or head over to the <a href="/projects/"> projects</a> page to see what I'm working on.</p>
-  </div>
+  <h1 class="content-subhead">Welcome</h1>
+  <p class="post-description">My name is Justin Hill and I am a tech enthusiast, web developer, and educator. Check out my recent blog posts below, or head over to the <a href="/projects/"> projects</a> page to see what I'm working on.</p>
+</div>
 
-  <div class="posts">
-    <h1 class="content-subhead">Recent Posts</h1>
+<div>
+  <h1 class="content-subhead">Recent Posts</h1>
 
-    {% for post in site.posts limit:5 %}
-    <section class="post">
-      <h2 class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-      <div class="post-description">
-        {{ post.excerpt | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}"> Read more...</a></p>
-      </div>
-    </section>
-    {% endfor %}
-  </div>
-
-{% include mc_embed_signup.html %}
+  {% for post in site.posts limit:5 %}
+  <section class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+    <div class="post-description">
+      {{ post.excerpt | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}"> Read more...</a></p>
+    </div>
+  </section>
+  {% endfor %}
+</div>
