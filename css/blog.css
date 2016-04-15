@@ -94,6 +94,10 @@ img {
     padding: 2em 1em 0;
 }
 
+.reading-area {
+    width: 100%;
+}
+
 .post {
     padding-bottom: 2em;
 }
@@ -165,6 +169,10 @@ img {
     .content {
         padding: 2em 3em 0;
         margin-left: 25%;
+    }
+
+    .reading-area {
+      width: 75%;
     }
 
     .header {
