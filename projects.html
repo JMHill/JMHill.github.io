@@ -3,19 +3,32 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-{% for project in site.projects %}
-  {% assign project_data = site.data.projects[project.project] %}
-  <section class="post">
-    <h2 class="post-title"><a href="{{ project.url | prepend: site.baseurl }}">{{ project_data.name }}</a></h2>
-    <p><span class="post-category post-category-js ">Status: {{ project_data.status }}</span><p>
-    <p>
-      {% for tech in project_data.techs %}
-      <span class="post-category post-category-pure">{{ tech }}</span>
-      {% endfor %}
-    </p>
+<div class="pure-g">
 
-    <div class="post-description">
-      <p>{{ project_data.description }} <a href="{{ project.url | prepend: site.baseurl }}">Learn more...</a></p>
+  {% for project in site.projects %}
+    {% assign project_data = site.data.projects[project.project] %}
+    <div class="pure-u-1 pure-u-xl-1-2">
+
+      <div class="card">
+
+        <h3 class="card-header"><a href="{{ project.url | prepend: site.baseurl }}">{{ project_data.name }}</a></h3>
+
+        <p><span class="post-category post-category-js ">Status: {{ project_data.status }}</span><p>
+
+        <p>
+          {% for tech in project_data.techs %}
+          <span class="post-category post-category-pure">{{ tech }}</span>
+          {% endfor %}
+        </p>
+
+        <div class="post-description">
+          <p>{{ project_data.description }} <a href="{{ project.url | prepend: site.baseurl }}">Learn more...</a></p>
+        </div>
+
+      </div>
+
     </div>
-</section>
-{% endfor %}
+
+  {% endfor %}
+
+</div>
