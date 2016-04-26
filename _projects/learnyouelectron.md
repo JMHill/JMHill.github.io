@@ -1,5 +1,6 @@
 ---
 project: learnyouelectron
+tag: electron
 ---
 I've been attending the nodeschool meetup in Rosslyn VA since about the middle of 2015. If you're not familiar with [nodeschool][nodeschool], it's an awesome organization that provides open source workshops (distributed as npm modules) that individuals can work through on their own or with mentors at meetups hosted around the world.
 

@@ -1,5 +1,6 @@
 ---
 project: justinmhill
+tag: portfolio
 ---
 
 My personal website is built on jekyll and hosted via the GitHub "user pages" functionality. GitHub is kind enough to provide every user with their own personal subdomain, in the format username.github.io. If you're interested in creating a simple jekyll-based page for an individual project, that capability exists as well. You can read more about it here: [https://pages.github.com/](https://pages.github.com/).
