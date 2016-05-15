@@ -1,6 +1,7 @@
 ---
 project: numismastery
 tag: numismastery
+priority: 3
 ---
 This is a very exciting project that I have had the good fortune of working on with my friend Chris Crook. Unfortunately I can't share the source code, but I'll be sure to update this page with lessons learned as we go along.
 

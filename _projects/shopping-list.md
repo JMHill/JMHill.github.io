@@ -1,6 +1,7 @@
 ---
 project: shopping-list
 tag: todo
+priority: 3
 ---
 Every programmer needs a good "to-do list" app to tinker with when learning new technologies. This was the project that served that purpose for me while I was taking Thinkful's node.js course.
 

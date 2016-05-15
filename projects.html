@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 <div class="pure-g">
-
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: "priority" %}
+  {% for project in sorted_projects %}
     {% assign project_data = site.data.projects[project.project] %}
     <div class="pure-u-1 pure-u-xl-1-2">
 

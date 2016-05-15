@@ -12,6 +12,29 @@
       "GitHub Pages"
     ]
   },
+  "spotify-recommend": {
+    "name": "You've Got Jamz",
+    "description": "Share your new favorite songs with friends",
+    "status": "development",
+    "github_repo": "https://github.com/jmhill/spotify-recommend-2",
+    "issues": "https://waffle.io/jmhill/spotify-recommend-2",
+    "live_app_url": "http://gotjamz.herokuapp.com/",
+    "techs": [
+      "express.js",
+      "react"
+    ]
+  },
+  "sketch-n-share": {
+    "name": "qwiktionary",
+    "description": "It's totally not pictionary... ok it's pictionary",
+    "status": "development",
+    "github_repo": "https://github.com/jmhill/pictionary",
+    "issues": "https://github.com/jmhill/pictionary/issues",
+    "live_app_url": "http://qwiktionary.herokuapp.com/",
+    "techs": [
+      "express.js"
+    ]
+  },
   "learnyouelectron": {
     "name": "learnyouelectron",
     "description": "A nodeschool module for learning electron (cross platform apps with node!)",
@@ -25,10 +48,23 @@
       "npm"
     ]
   },
+  "numismastery": {
+    "name": "Numismastery",
+    "description": "Crowd-sourced coin grading for collectors",
+    "status": "dormant",
+    "github_repo": ,
+    "issues": ,
+    "live_app_url": ,
+    "techs": [
+      "mongodb",
+      "express.js",
+      "angular.js",
+      "node.js"]
+    },
   "mrdoc": {
     "name": "mrdoc",
     "description": "A custom document and workflow management system",
-    "status": "in development",
+    "status": "dormant",
     "github_repo": "https://github.com/jmhill/mrdoc",
     "issues": "https://waffle.io/jmhill/mrdoc",
     "live_app_url": ,
@@ -39,23 +75,10 @@
       "node.js"
     ]
   },
-  "numismastery": {
-    "name": "Numismastery",
-    "description": "Crowd-sourced coin grading for collectors",
-    "status": "live",
-    "github_repo": ,
-    "issues": ,
-    "live_app_url": ,
-    "techs": [
-      "mongodb",
-      "express.js",
-      "angular.js",
-      "node.js"]
-  },
   "shopping-list": {
     "name": "Shopping List",
     "description": "My obligatory to-do app (for tinkering with new ideas)",
-    "status": "in development",
+    "status": "dormant",
     "github_repo": "https://github.com/jmhill/mongo-shopping-list",
     "issues": "https://github.com/jmhill/mongo-shopping-list/issues",
     "live_app_url": ,
@@ -64,30 +87,6 @@
       "express.js",
       "react",
       "node.js"
-    ]
-  },
-  "sketch-n-share": {
-    "name": "Sketch-N-Share",
-    "description": "Quick, easy chat with whiteboarding",
-    "status": "planning",
-    "github_repo": "https://github.com/jmhill/pictionary",
-    "issues": "https://github.com/jmhill/pictionary/issues",
-    "live_app_url": ,
-    "techs": [
-      "backbone.js",
-      "express.js"
-    ]
-  },
-  "spotify-recommend": {
-    "name": "Spotify-Recommend",
-    "description": "Discover new artists based on your favs",
-    "status": "planning",
-    "github_repo": ,
-    "issues": ,
-    "live_app_url": ,
-    "techs": [
-      "express.js",
-      "react"
     ]
   }
 }
