@@ -32,7 +32,8 @@
     "issues": "https://github.com/jmhill/pictionary/issues",
     "live_app_url": "http://qwiktionary.herokuapp.com/",
     "techs": [
-      "express.js"
+      "express.js",
+      "socket.io"
     ]
   },
   "learnyouelectron": {
