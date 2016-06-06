@@ -2,6 +2,7 @@
 project: spotify-recommend
 tag: spotify
 priority: 1
+title: You've Got Jamz
 ---
 Yet another project that came out of my time in the Thinkful node.js course. This project was started early in the curriculum sequence to give me the opportunity to explore event-based and callback-based approaches to async programming in node.
 
