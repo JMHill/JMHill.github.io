@@ -1,8 +1,9 @@
 ---
 project: sketch-n-share
+title: qwiktionary
 tag: sketch
 priority: 1
-title: qwiktionary
+published: true
 ---
 This project (including the goofy name) is definitely subject to a lot of change in the near future - it was another project spawned from my time taking the Thinkful node.js course. In the course, we used it as a tool for tinkering with websockets via socket.io.
 
