@@ -36,6 +36,18 @@
       "socket.io"
     ]
   },
+  "tdd-adventure": {
+    "name": "tdd-adventure",
+    "description": "A nodeschool workshop for trying out test-driven development",
+    "status": "development",
+    "github_repo": "https://github.com/jmhill/tdd-adventure",
+    "issues": ,
+    "live_app_url": "https://www.npmjs.com/package/tdd-adventure",
+    "techs": [
+      "node.js",
+      "npm"
+    ]
+  },
   "learnyouelectron": {
     "name": "learnyouelectron",
     "description": "A nodeschool module for learning electron (cross platform apps with node!)",
