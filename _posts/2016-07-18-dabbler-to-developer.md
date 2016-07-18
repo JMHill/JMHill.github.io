@@ -13,7 +13,9 @@ published: true
 
 About a year ago, I decided that my journey as a self-taught programmer and developer was stalling out. I was becoming an expert at completing tutorials, but I didn't feel any closer to being comfortable starting and maintaining projects of my own. If you're a self-directed learner in the early phases of learning to code, read on for some helpful tips that you can use to break into the next level of growth.
 
-Learning to code is a time-consuming process, and it only becomes more difficult if you're juggling a full-time job that doesn't give you very much opportunity to flex your technical skills at work. To make the most effective use of my time, I developed several habits that improved my workflow and ensured a more steady progression with the goal of taking myself from hobbyist to professional:
+![So hot right now.](/assets/mugatu-coding.jpg)
+
+It's a wonderful time to learn about web development and software engineering, with an ever-growing heap of online resources at your disposal. However, learning to code is a time-consuming process, and it only becomes more difficult if you're juggling a full-time job that doesn't give you very much opportunity to flex your technical skills at work. To make the most effective use of my time, I developed several habits that improved my workflow and ensured a more steady progression with the goal of taking myself from hobbyist to professional:
 
 ## Find a mentor
 
