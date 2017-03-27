@@ -2,7 +2,7 @@
 project: mrdoc
 tag: mrdoc
 priority: 3
-published: true
+published: false
 ---
 
 This project began as a first attempt at applying some of the skills I had learned in my Thinkful node.js course. While working at my day job with an education-focused philanthropy, I found that several of my colleagues worked on a team that had some very unique workflows related to accepting research requests from other members of the organization, assigning research tasks to their internal team members, and publishing out the research to select individuals in the organization.
