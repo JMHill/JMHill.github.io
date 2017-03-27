@@ -41,7 +41,7 @@
     "description": "A nodeschool workshop for trying out test-driven development",
     "status": "development",
     "github_repo": "https://github.com/jmhill/tdd-adventure",
-    "issues": ,
+    "issues": "",
     "live_app_url": "https://www.npmjs.com/package/tdd-adventure",
     "techs": [
       "node.js",
@@ -54,7 +54,7 @@
     "status": "planning",
     "github_repo": "https://github.com/cralford21/learnyouelectron",
     "issues": "https://github.com/cralford21/learnyouelectron/issues",
-    "live_app_url": ,
+    "live_app_url": "",
     "techs": [
       "node.js",
       "electron",
@@ -65,9 +65,9 @@
     "name": "Numismastery",
     "description": "Crowd-sourced coin grading for collectors",
     "status": "dormant",
-    "github_repo": ,
-    "issues": ,
-    "live_app_url": ,
+    "github_repo": "",
+    "issues": "",
+    "live_app_url": "",
     "techs": [
       "mongodb",
       "express.js",
@@ -80,7 +80,7 @@
     "status": "dormant",
     "github_repo": "https://github.com/jmhill/mrdoc",
     "issues": "https://waffle.io/jmhill/mrdoc",
-    "live_app_url": ,
+    "live_app_url": "",
     "techs": [
       "hapi",
       "react",
@@ -94,11 +94,27 @@
     "status": "dormant",
     "github_repo": "https://github.com/jmhill/mongo-shopping-list",
     "issues": "https://github.com/jmhill/mongo-shopping-list/issues",
-    "live_app_url": ,
+    "live_app_url": "",
     "techs": [
       "mongodb",
       "express.js",
       "react",
+      "node.js"
+    ]
+  },
+  "new-homepage": {
+    "name": "The new justinmhill.com",
+    "description": "Custom lightweight MERN stack CMS",
+    "status": "development",
+    "github_repo": "https://github.com/jmhill/justinmhill-site/",
+    "issues": "https://github.com/jmhill/justinmhill-site/issues",
+    "live_app_url": "",
+    "techs": [
+      "mongodb",
+      "mongoose",
+      "express.js",
+      "react",
+      "react-router",
       "node.js"
     ]
   }
